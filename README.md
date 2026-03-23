@@ -6,7 +6,6 @@ The goal of this setup was to measure real lead behavior on a live small-busines
 ## Key business questions
 Which pages or calls to action are getting people to reach out?
 How many visitors are actually submitting an inquiry?
-Where are people dropping off in the lead funnel?
 
 ## Tracking design choices
 
@@ -28,10 +27,7 @@ I started with contact_click and inquiry_submit because they map directly to lea
 
 ### Results 
 
-Established a clear lead funnel from contact interaction to inquiry submission
-
-Enabled measurement of conversion events in GA4
-
-Created a foundation for future tracking, such as attribution (UTMs) and CRM integration
-
-Improved visibility into where users drop off before converting
+-Established a clear lead funnel from contact interaction to inquiry submission
+-Enabled measurement of conversion events in GA4
+-Created a foundation for future tracking, such as attribution (UTMs) and CRM integration
+-Improved visibility into where users drop off before converting
