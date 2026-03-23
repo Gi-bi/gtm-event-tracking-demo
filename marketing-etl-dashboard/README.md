@@ -5,6 +5,8 @@ This project demonstrates a lightweight end-to-end marketing analytics workflow,
 
 The goal was to simulate a real-world marketing data pipeline: ingest messy data, clean and structure it, and visualize performance across the funnel.
 
+LIVE LINK: https://lookerstudio.google.com/s/ifhkj5oLH2k
+
 ---
 
 ##  Tech Stack
