@@ -86,15 +86,6 @@ marketing-etl-dashboard/
 
 ---
 
-##  How to Run
-
-1. Open `marketing_etl.ipynb` in Jupyter Notebook  
-2. Run all cells to clean and transform the dataset  
-3. Output will generate `clean_marketing_data.csv`  
-4. Upload the cleaned dataset to Looker Studio to recreate the dashboard  
-
----
-
 ##  Future Improvements
 
 - Automate pipeline with scheduled ETL (Airflow or cron)
